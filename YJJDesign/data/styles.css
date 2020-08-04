@@ -51,6 +51,9 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
 ._流程形状 {
 }
 ._连接线 {
@@ -105,6 +108,10 @@
 }
 ._形状1 {
 }
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
 .heading_1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -133,4 +140,19 @@
   text-align:left;
 }
 .flow_shape {
+}
+._默认样式 {
+}
+._默认样式1 {
+}
+.image {
+}
+._形状2 {
+  font-size:13px;
+  color:#000000;
+}
+._文本框1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
 }
