@@ -126,9 +126,24 @@
   font-size:32px;
   text-align:left;
 }
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.horizontal_line {
+}
 .icon {
 }
 .shape {
+}
+.image {
+  color:#000000;
+}
+.radio_button {
+  text-align:left;
 }
 .icon1 {
 }
@@ -152,7 +167,7 @@
 }
 ._默认样式1 {
 }
-.image {
+.image1 {
 }
 ._形状2 {
   font-size:13px;
