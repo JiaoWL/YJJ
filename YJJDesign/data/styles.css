@@ -65,6 +65,9 @@
   text-align:center;
   line-height:normal;
 }
+.sticky_1 {
+  text-align:left;
+}
 ._流程形状1 {
 }
 ._文本段落1 {
@@ -92,9 +95,13 @@
 }
 .box_1 {
 }
+.box_3 {
+}
 ._图片 {
 }
 .line {
+}
+.table_cell {
 }
 ._图片1 {
   color:#000000;
@@ -155,4 +162,19 @@
   font-size:13px;
   color:#000000;
   text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.ellipse {
+}
+.placeholder {
+}
+.line1 {
+}
+.box_2 {
+}
+.line2 {
+}
+._水平线1 {
 }
